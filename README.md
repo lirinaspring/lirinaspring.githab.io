@@ -1,2 +1,2 @@
-# lirinaspring.githab.io
+# Ирина Лепихова
 Мой первый сайт
